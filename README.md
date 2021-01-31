@@ -1,4 +1,4 @@
-![Views](https://komarev.com/ghpvc/?username=iamvarunm)
+![Views](https://komarev.com/ghpvc/?username=iamvarunm&color=orange&label=views)
 
 ### Hi there 👋 I'm Varun Mishra,
 
