@@ -1,4 +1,4 @@
-![License](https://img.shields.io/github/license/iamvarunm/iamvarunm?style=flat
+![License](https://img.shields.io/github/license/iamvarunm/iamvarunm?style=flat)
 
 ### Hi there 👋 I'm Varun Mishra,
 
