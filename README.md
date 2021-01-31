@@ -1,4 +1,4 @@
-![License](https://img.shields.io/github/license/iamvarunm/iamvarunm?style=flat)
+![Views](https://komarev.com/ghpvc/?username=iamvarunm)
 
 ### Hi there 👋 I'm Varun Mishra,
 
