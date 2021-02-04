@@ -1,5 +1,5 @@
 ![Views](https://komarev.com/ghpvc/?username=iamvarunm&color=orange&label=views)
-<a href="https://github.com/iamvarunm/iamvarunm/blob/add-license-1/LICENSE"><img src="https://img.shields.io/github/license/antonkomarev/github-profile-views-counter.svg?style=flat-square" alt="License"></a>
+<a href="https://github.com/iamvarunm/iamvarunm/blob/main/LICENSE"><img src="https://img.shields.io/github/license/antonkomarev/github-profile-views-counter.svg?style=flat-square" alt="License"></a>
 
 ### Hi there 👋 I'm Varun Mishra,
 
