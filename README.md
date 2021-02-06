@@ -12,7 +12,7 @@ A Data Scientist passionate about Data Science :bar_chart:. I like automating th
 	- A.I Professional Certification
 - :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
 - 💬 Talk to me about Formula 1 :racing_car:, Memes, anything that interests you.
-- 🌱 I’m currently pursuing **Machine learning**.
+- 🌱 I’m currently pursuing **PGDM (Analytics)**.
 
 
 
