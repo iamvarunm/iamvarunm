@@ -11,7 +11,7 @@ A Data Science Enthusiast, passionate about Data Science :bar_chart:. I like aut
 	- Building a Recommender Systems for Movies.
 	- A.I Professional Certification
 - :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
-- 💬 Talk to me about Formula 1 :racing_car:, Memes, anything that interests you.
+- 💬 Talk to me about Bodybuilding:, Memes, anything that interests you.
 - 🌱 I've earned **PG (Analytics & Finance)**.
 
 
