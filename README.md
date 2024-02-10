@@ -12,7 +12,7 @@ A Data Science Enthusiast, passionate about Data Science :bar_chart:. I like dis
 	- A.I Professional Certification
 - :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
 - 💬 Talk to me about Bodybuilding, Memes, anything that interests you.
-- 🌱 I've earned **PG (Analytics & Finance)**.
+- 🌱 I am pursuing **PG (Analytics & Finance)**.
 
 
 
